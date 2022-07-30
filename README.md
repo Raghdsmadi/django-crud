@@ -4,7 +4,7 @@
   Author: **Raghd Smadi :read_heart:**
 <br>
 *************************************************
-[Django_snacks_CRUD_pull_request]() <br>
+[Django_snacks_CRUD_pull_request](https://github.com/Raghdsmadi/django-crud/pull/1) <br>
 
 <h4>How to run my application:
 <br> python manage.py runserver </h4>
